@@ -277,7 +277,7 @@
 							let split_word = str.split(" ");
 							for(const i in split_word) {
 								if (regex.test(split_word[i])) {
-									replacedWords.push(`${pair.key} has been updated as ${pair.value}`);
+									replacedWords.push(`Abbreviation '${pair.key}' has been updated as '${pair.value}'`);
 								}
 								split_word[i] = split_word[i].replace(regex, pair.value);
 							}
@@ -286,19 +286,19 @@
 						this.replace_data.forEach(char => {
 							const regex = new RegExp(this.escapeRegExp(char), 'g');
 							if (regex.test(str)) {
-								replacedWords.push(`${char} has been replace with ''`);
+								replacedWords.push(`Unnecessary period '${char}' removed from input data.`);
 							}
         					str = str.replace(regex, '');
 						});
 						const regex = new RegExp(/\.$/,'g')
 						if (regex.test(str)) {
-							replacedWords.push(`. has been removed`);
+							replacedWords.push(`'.' has been removed`);
 						}
 						str = str.replace(regex, '');
 					}
 
 					if (replacedWords.length === 0) {
-						replacedWords.push("No changes made");
+						replacedWords.push("No changes made.");
 					}
 					// return str;
 					return { updatedStr: str, replaceText: replacedWords.join(", ") };
