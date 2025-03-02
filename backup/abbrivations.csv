@@ -1,0 +1,303 @@
+Key,Value
+&,And
+Acad,Academy
+Accnt,Accountant
+Actvt,Activity
+Admin,Administration
+AFB,Air Force Base
+Agr,Agricultural
+Agy,Agiyari
+Alt,Alternative
+Amer,American
+Anlysis,Analysis
+Apls,Appliances
+Apt,Apartment
+Apts,Apartments
+Arch,Architecture
+Archeo,Archaeology
+Archeo’l,Archaeological
+Arpt,Airport
+Assoc,Association
+Assoct,Associates
+attr.,Attraction
+Auth,Authority
+Auto,Automobiles
+Ave. or Ave,Avenue
+Ayur,Ayurveda
+B&B,Bed and Breakfast
+Bch,Beach
+Bhv,Bhavan
+Bhwn,Bhawan
+Bldg,Building
+Blf,Bluff
+Bnk,Bank
+Bnqt,Banquet
+BP,Bharat Petroleum
+Br,Branch
+Brd,Board
+BRG,Bridge
+Buss,Business
+BYP,bypass
+CC,Country Club
+Ch,Church
+Ch or Ch.,Chowk
+Cha or Ch. *Based on POI name initial,Chauraha
+Cha or Ch. *Based on POI name initial,Chaudhary
+Chem,Chemist
+Chldrn’s,Children’s
+CHS,Co-operative Housing Society
+Cir,Circle
+Ckn,Chicken
+Clb,Club
+Clfs,Cliffs
+Clnc,Clinic
+Cntry,Country
+Cnty,County
+Co,Company
+Col,College
+Comm,Commerce
+comm.,Communication
+Comp,Computer
+Complx,Complex
+Con,Convent
+Conf,Conference
+Cons,Conservatory
+cons,Consumer
+Conv,Convention
+Co-op,Co-operative
+COR,Corner
+Corp,Corporation
+CP,Camp
+Crk,Creek
+Ctr,Center
+Ctr,Centre
+Ctr’l,Central
+Ctr,Control
+Cultr’l,Cultural
+Cvl,Civil
+DC,Deputy Commissioner
+Dept,Department
+Dgnstc,Diagnostic
+Dir,Director
+Disp,Dispensary
+Dist,District
+Div,Division
+DL,Delhi
+Dntal,Dental
+Dntwn,Downtown
+Dr. or Dr,Doctor
+Drv,Drive
+Dvlp’t,Development
+Edu,Education
+Edu’l,Educational
+elec.,Electronics
+Elem,Elementary
+Emb,Embassy
+Eng,English
+Engg,Engineering
+Ent,Entrance
+entmt.,Entertainment
+Envr’l,Environmental
+est or Est. *May apply based on POI and road complete name,Estate
+est. * May differ based on POI name,Established
+Exhib.,Exhibition
+EXPY or Eway,EXPRESSWAY
+EXT,EXTENSION
+EXTS,EXTENSIONS
+Fld,Field
+Flds,Fields
+Flwr,Flowers
+Fly,Flyover
+Fme,Fame
+FRST,Forest
+FRY,Ferry
+FT,Fort
+Fts,Flats
+fur,Furniture
+Gal’y,Gallery
+GC,Golf Club
+GC,Golf Course
+GCC,Golf and Country Club
+GDN,Garden
+Gen,General
+Gln,Glen
+Gov’t,Government
+Grdw,Gurudwara
+Grn,Green
+Grp,Group
+Grv,Grove
+Gtm,Gautam
+GTWY,Gateway
+Gymk,Gymkhana
+GYN,Gynaecologist
+Hbr,Harbour
+Hist,History
+Hist’l,Historical
+Hls,Hills
+Hlth,Health
+Homeo,Homeopathy
+Hosp,Hospital
+Hrtg,Heritage
+HS,High School
+Hse,House
+Hstl,Hostel
+Htl,Hotel
+HTS,Heights
+HW,Hardware
+HWY,Highway
+I.G.,Indira Gandhi
+Imprvemt,Improvement
+Indo,Indore
+Inds,Industrial
+Indu,Industries
+Info,Information
+Insrnce,Insurance
+Inst,Institute
+Int’l,International
+Interp,Interpretive
+Intst,Interstate
+Jct,Junction
+JrHS,Junior High School
+jwel,Jewellery/jewelry
+Kndr,Kendra
+Knls,Knolls
+Ktyni,Katyayani
+Lbry,Library
+Ldg,Lodge
+Ln,Lane
+Lndg,Landing
+Locl,Local
+Lrng,Learning
+Ltd,Limited
+Maint,Maintenance
+Matnty,Maternity
+MC,Municipal Corporation
+Mdn,Maiden
+mdse,Merchandise
+Mdws,Meadows
+Med,Medical
+Mem’l,Memorial
+Metro,Metropolitan
+Mgt,Management
+Mkt,Market
+Ml,Mall
+Mndr ,Mandir
+Mny,Money
+Mon,Monument
+Mrg,Marg
+Msjd,Masjid
+Msm,Museum
+Mt,Mount
+Mts,Mountains
+MTWY,Motorway
+Muni,Municipal
+Nag,Nagpur
+Nat,Natural
+Nat’l,National
+Ngm,Nigam
+Ngr,Nagar
+No or No.,Number
+Nrsry,Nursery
+Nurs.,Nursing
+Off,Office
+OPAS,Overpass
+optics,Optical
+Orthop,Orthopaedic
+Pbl,Public
+PC,Police
+Pharma,Pharmacy
+Phy,Physician
+Physiothrpy,Physiotherapy
+Pith,Peeth
+PLZ,Plaza
+Pri,Primary
+Prisr,Parisar
+Prthmik,Prathmik
+Pvt or P.v.t,Private
+Rd or rd.,Road
+Rde,Ride
+Rdg,Ridge
+Rec,Recreation
+Recl,Reclamation
+Reg,Region
+Reg’l,Regional
+Rehab ,Rehabilitation
+Res,Reservation
+Resdntl,Residential
+Rest,Restaurant
+Resv’r,Reservoir
+Rev,Revenue
+RIV,River
+Rlwy,Railway
+RS,Ranger Station
+Rsrch,Research
+Sanct’y,Sanctuary
+Sav,Savings
+SC,Sports centre
+Sch,School
+Sch,Shala
+Scho.,School
+Sch.,School
+Sci,Science
+Secn,Secondary
+Sec. or Sec,Secondary
+Secon.,Secondary
+Sel,Selection
+Ser,Service
+Sers,Services
+Shl,Shoal
+SHP,State Historical Park
+shp,Shop
+Shrs,Shores
+Smt,Summit
+Soc,Society
+Soc,Social
+Sol,Solapur
+SP,State Park
+spc./ spec.,Speciality
+Spg,Spring
+Squ,Square
+Sri,Shri
+St,State
+St. or St ,Saint
+St. or St ,Street
+Std,Stadium
+Stn,Station
+Str,Store
+Strm,Stream
+Sts,Suites
+Stu,Studio
+Sur,Surgeon
+Sys,System
+Tbrncl,Tabernacle
+Tech,Technical
+Techno,Technology
+Ter,Terminal
+Tmpl,Temple
+Tnl,Tunnel
+Trl,Trail
+Trn,Train
+Trng,Training
+Trnsfr,Transfer
+trnst,Transit
+Trs,Tours
+Trvl,Travel
+UN,Union
+Univ,University
+UPAS,Underpass
+Util,Utilities
+Vdyly,Vidyalaya
+vet,Veterinary
+Vishvavdylya,Vishvavidyalaya
+Vlg,Village
+Vly,Valley
+Wash.,Washington
+WB,West Bengal
+Wh,White
+Wls,Wells
+XING or Cross,Crossing
+XRD,Crossroad
+l.t.d.,Limited
+Ft,Feet/Foot
+"""-ER"" or ""-ER."" or ER",Emergency
+Jr,Junior
